@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="nguyenvanphituoc-springboot-gae/src/main/java"/>
+	<classpathentry kind="lib" path="nguyenvanphituoc-springboot-gae/target/Spring4MVCFileUploadDownloadWithHibernate.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="nguyenvanphituoc-springboot-gae/target/classes"/>
+</classpath>
